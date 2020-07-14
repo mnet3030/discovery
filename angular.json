@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Discovery"
+    }
+  },
+  "defaultProject": "Discovery",
+  "cli": {
+    "analytics": "d232246b-73f2-4ff0-a327-cd9a01ae124d"
+  }
 }
